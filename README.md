@@ -1,4 +1,4 @@
-For this project, I chose to scrape content from the Student News Daily website. Using Python and these robust modules, I automated the extraction of articles, pulling crucial data such as headlines, publication dates, and article summaries directly from the site.
+
 
 Here’s a brief overview of how each module contributed to the project's success:
 
