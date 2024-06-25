@@ -8,4 +8,5 @@ Here’s a brief overview of how each module contributed to the project's succes
 
 3️⃣ Requests module: This module facilitated seamless HTTP requests, enabling my scraper to fetch web pages from Student News Daily without hassle. It managed the communication between my Python script and the web server flawlessly.
 
-By combining these modules, I created a streamlined web scraping tool that not only gathers information efficiently but also respects the website's protocols and ensures ethical data extraction practices.
+By combining these modules,
+I created a streamlined web scraping tool that not only gathers information efficiently but also respects the website's protocols and ensures ethical data extraction practices.
